@@ -1,2 +1,2 @@
 "# ShotKvantSite" 
-"# ShotKvantSite" 
+In the children's technopark Quantorium, a project was created to attract people to VR/AR quantum. The site demonstrates the process of developing a game to attract people, according to the idea, this game could be downloaded from any computer on the local network of the Quantorium and played, but the game was never fully implemented. Also in this directory you can find intermediate photos and screenshots that were taken for the presentation of the project.
